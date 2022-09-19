@@ -4,6 +4,7 @@
                 It also generates the inventory once main first call the resale shop.
     Author: J Gilleman & Ryan (K) Emerson
     Date: September 18, 2022
+    Cited: I did not utilize any external resources in completing this assignment.
 """
 from computer import Computer
 from typing import Dict, Union, Optional
